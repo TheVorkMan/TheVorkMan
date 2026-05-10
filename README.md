@@ -1,5 +1,5 @@
 ## Hi there, stranger on internet.
-I'm a guy who just happens a lot of stuff to tinker with, and loves to help others with their tinkering.
+I'm just a guy, who just happens to have a lot of stuff to tinker with, and just loves to help others with their tinkering.
 
 <!--
 **TheVorkMan/TheVorkMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
